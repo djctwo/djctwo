@@ -2,6 +2,7 @@
 
 I work in information security and governance, risk and compliance (GRC).
 I build tools for the problems I see in that work, and a few for my own trading.
+I design and direct these projects and build them with Claude Code.
 
 **Focus:** compliance automation, security engineering, trading analytics.
 
